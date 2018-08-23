@@ -4,6 +4,7 @@ Understanding the Question + Getting Data
 - Acquiring domain expertise  
 - Articulate question  
 - Get and begin cleaning data  
+- Check original file footnotes and source website to better understand data
 - Common data wrangling issues    
 - Coding Tasks:  
   * `Import pandas as pd`
@@ -15,7 +16,7 @@ Understanding the Question + Getting Data
   * a) Create a DataFrame, `cancer_df`, from the cancer CSV file.  
   b) Look at the head and tail of the DataFrame.  
   c) Print the shape of the cancer data.  
-  d) Keep and rename these columns: County, FIPS, Met Healthy People Objective of 161.4?, Age-Adjusted Death Rate - deaths per 100,000, . You can read more about 2020 Healthy People Objective target of 161.4 cancer deaths per 100,000 people [here](https://www.healthypeople.gov/).
+  d) Keep and rename all columns. You can read more about **2020 Healthy People Objective target of 161.4 cancer deaths per 100,000 people** [here](https://www.healthypeople.gov/).
   * a) Create a DataFrame, `pop17_df`, from the census CSV file.  
   b) Look at the head and the tail  
   c) Print the shape  
