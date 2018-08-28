@@ -12,6 +12,8 @@ Cleaning Data
             - drop all April estimate columns
             - keep only columns that pertain to 2010, 2014, and 2017
     
-
+    * Use and outer join to merge `pop_df` and `cancer` data to a DataFrame called `pop_and_cancer`
+    * Use the pandas series `value_counts()` method to create a dictionary called `hospice_per_county`. The key for this dict will be the county name and the value will be the count of hospice facilities in that county. Add counties with 0 hospice facilities to `hospice_per_county`.
+    * Use the dictionary you created, `hospice_per_county` to populate a new column in `pop_and_cancer`. Call this column `hospice_count`.
         
     
