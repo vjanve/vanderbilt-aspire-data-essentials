@@ -1,5 +1,5 @@
 ### Data Essentials - Introduction to Data Science
-#### The Question: How do cancer mortality rates, aging populations, and the presence of hospice facilities relate to one another in Tennessee counties?
+#### The Question: How do cancer mortality rates, aging populations, and the presence of hospice facilities in Tennessee counties relate to one another?
 
 #### Data Sources - files are located in the `data` folder of this repository
  - Hospice data (last updated 08/16/2018) is a comma separated value (CSV) file downloaded from [CMS](https://healthdata.gov/dataset/hospice-general-information)  - `Hospice_General_Information.csv`

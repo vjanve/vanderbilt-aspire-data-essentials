@@ -16,7 +16,8 @@ Understanding the Question + Getting Data
   * Create a DataFrame, `cancer_df`, from the cancer CSV file.  
       - Look at the head and tail of the DataFrame.  
       - Print the shape of the cancer data.  
-      - Keep and rename all columns. You can read more about **2020 Healthy People Objective target of 161.4 cancer deaths per 100,000 people** [here](https://www.healthypeople.gov/).
+      - Keep and rename all columns. 
+      - You can read more about **2020 Healthy People Objective target of 161.4 cancer deaths per 100,000 people** [here](https://www.healthypeople.gov/).
   * Create a DataFrame, `pop_df`, from the census CSV file.  
       -  Look at the head and the tail  
       - Print the shape  
