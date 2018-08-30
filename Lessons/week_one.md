@@ -6,4 +6,3 @@ What is Data Science?
 - Install Anaconda Navigator (Jupyter Notebook) to prepare for next session  
 - Intro to git
 - Create a GitHub account; fork and clone course repository
-- Review resources and package documentation for help with coding

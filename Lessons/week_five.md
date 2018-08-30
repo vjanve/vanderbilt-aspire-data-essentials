@@ -1,7 +1,6 @@
 ##### Week 5:
 Formulating a Hypothesis About the Data
 - Overview of Machine Learning
-- Variance/bias tradeoff
 - Scikit Learn's `linear_model` module
 - One hot encoding to use categorical variables in a model
 - Creating training and test data

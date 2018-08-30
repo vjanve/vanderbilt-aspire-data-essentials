@@ -6,8 +6,10 @@ Cleaning Data
 - Coding Tasks:
     * Work on cleaning and wrangling `pop_df`. 
         - cancer rates begin to climb at age 50 so we are particularly interested in population over 50.
-        - In the end, you should have these 10 columns:  
-   `'county', 'pop2010all', 'pop2014all', 'pop2017all', 'median_age_2010', 'median_age_2014', 'median_age_2017', 'over50_2010', 'over50_2014', 'over50_2017'.  
+        - In the end, you should have these 31 columns:  
+   `'county', 'pop2010all', 'pop2014all', 'pop2017all', 'median_age_2010', 'median_age_2014', 'median_age_2017', 'pop2010_50to54','pop2014_50to54', 'pop2017_50to54', 'pop2010_55to59', 'pop2014_55to59', 'pop2017_55to59', 'pop2010_60to64', 'pop2014_60to64', 'pop2017_60to64',
+    'pop2010_65to69', 'pop2014_65to69', 'pop2017_65to69', 'pop2010_70to74', 'pop2014_70to74', 'pop2017_70to74', 'pop2010_75to79', 'pop2014_75to79', 'pop2017_75to79', 'pop2010_80to84', 'pop2014_80to84', 'pop2017_80to84',
+    'pop2010_85over', 'pop2014_85over', 'pop2017_85over'.  
             - beginning DataFrame has 95 rows and 993 columns
             - drop all April estimate columns
             - keep only columns that pertain to 2010, 2014, and 2017

@@ -5,7 +5,9 @@ Understanding the Question + Getting Data
 - Articulate question  
 - Get and begin cleaning data  
 - Check original file footnotes and source website to better understand data
-- Common data wrangling issues    
+- Common data wrangling issues 
+- Resources for help with coding 
+- Review of code for today (pandas API)  
 - Coding Tasks:  
   * `Import pandas as pd`
   *  Create a DataFrame, `hospice_df`, from the hospice CSV file.   
